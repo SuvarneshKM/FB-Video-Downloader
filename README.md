@@ -8,3 +8,5 @@ fbdown A simple FB Video Downloader
 * `bash installer.sh`
 
 ## Run
+
+* `bash fb.sh`
