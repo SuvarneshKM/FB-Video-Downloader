@@ -45,4 +45,4 @@ do
     esac
 done  
 
-echo "${red}You Can Run The tool by using : ${yellow}python3 fb-video-downloader.py${reset}"
+echo "${red}You Can Run The tool by using : ${cyan}bash fb.sh${reset}"
