@@ -25,7 +25,7 @@ do
     case $opt in
         "Termux")
             echo "you chose choice $opt"
-            fbdown $url --output sdcard/FBVideo/$name.mp4
+            fbdown $url --output /sdcard/FBVideo/$name.mp4
             break
             ;;
         "Linux")
